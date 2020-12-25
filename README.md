@@ -1,4 +1,4 @@
-# daily-workout
+# daily-workout with Vue JS
 
 > A Vue.js project
 
